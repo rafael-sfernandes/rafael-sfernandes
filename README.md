@@ -33,6 +33,8 @@ A study of the Complementary Eigenvalues Problem (EiCP) when its matrix belongs 
 - **LinkedIn:** [(https://www.linkedin.com/in/rafael-souza-fernandes-4b6412239/)](https://www.linkedin.com/in/rafael-souza-fernandes-4b6412239/)
 - **Email:** fernandes.rafael.1990@gmail.com
 
+---
+
 *"Mathematics is the art of giving the same name to different things." — Henri Poincaré*
 
 As a Data Scientist, I apply this principle by finding structural patterns across diverse domains—from music theory to healthcare automation.
