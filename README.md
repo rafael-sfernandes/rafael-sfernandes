@@ -15,7 +15,7 @@ I am a Mathematics teacher with a passion for logic and patterns, currently tran
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Programming:** Python (Pandas, NumPy, Scikit-learn, Matplotlib, OpenCV)
+- **Programming:** Python (Pandas, NumPy, Scikit-learn, Matplotlib)
 - **Data Engineering:** ETL Pipelines, Data Cleaning, Automation Scripts.
 - **Mathematics:** Combinatorics, Statistics.
 - **Tools:** Git, GitHub, Google Colab, PyCharm.
