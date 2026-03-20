@@ -29,12 +29,6 @@ A study of the Complementary Eigenvalues Problem (EiCP) when its matrix belongs 
 
 ---
 
-### 📊 GitHub Stats
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-sfernandes&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafael-sfernandes&layout=compact&theme=radical)
-
----
-
 ### 📫 How to reach me:
 - **LinkedIn:** [(https://www.linkedin.com/in/rafael-souza-fernandes-4b6412239/)](https://www.linkedin.com/in/rafael-souza-fernandes-4b6412239/)
 - **Email:** fernandes.rafael.1990@gmail.com
